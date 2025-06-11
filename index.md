@@ -1,8 +1,10 @@
 ---
-title: Accueil
+title: "La tronçonneuse MS170"
 order: 0
+in_menu: true
 ---
+# La tronçonneuse STHIL MS170 
 
-# L'Échappée Belle
+{% link images/IMG_6231.jpeg %})
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+C'est une tronçonneuse très belle est polyvalente impeccable pour des utilisation variés comme tailler des haies ou encore tuer des personnes. Plus sérieusement nous allons donc modéliser cette tronçonneuse sous caria v5. 
